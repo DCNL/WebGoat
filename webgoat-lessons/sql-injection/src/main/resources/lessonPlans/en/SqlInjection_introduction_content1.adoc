@@ -1,5 +1,5 @@
 == What is SQL?
-
+:pdf-theme: default-with-fallback-font
 SQL is a standardized (ANSI in 1986, ISO in 1987) programming language which is used for managing relational databases and performing various operations on the data in them.
 
 A database is a collection of data. The data is organized into rows, columns and tables, and indexed to make finding relevant information more efficient.
